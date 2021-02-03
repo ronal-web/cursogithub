@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="css/estilos.css" rel="stylesheet" type="text/css">
-    <h1>hola</h1>
+    <h1>hola ronal</h1>
 </head>
 <body>
     
